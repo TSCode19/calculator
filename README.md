@@ -12,7 +12,3 @@ The program prints Result: followed by the answer.
 
 ##How to stop it
 Use Ctrl-C to stop the program from running.
-
-##How to test it
-Use ./check.sh to test the code and then run echo $? to make sure the test
-ran properly.
